@@ -31,3 +31,12 @@ Sure!
 Nah
 translated by Your Name
 original in english
+
+de
+Deutsch
+./de.html
+Lieber in deutsch lesen?
+Klar!
+Nee
+Simon Stelling
+Englisches Original
