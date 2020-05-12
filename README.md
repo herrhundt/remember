@@ -1,3 +1,5 @@
+Vorschau [Deutsch](https://stellingsimon.github.io/remember/de.html)
+
 !["Some Thumbnail Image"](https://ncase.me/remember/sharing/thumbnail.png)
 
 **[How To Remember Anything Forever-ish](https://ncase.me/remember/)** is dedicated to the public domain,
@@ -46,7 +48,6 @@ so that others know you're working on it!]**
 
 **Translations done so far:**    
 [none]
-Vorschau [Deutsch](https://stellingsimon.github.io/remember/de.html)
 
 To translate this project, you'll need a basic familiarity with HTML and GitHub.
 
