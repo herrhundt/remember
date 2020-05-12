@@ -46,6 +46,7 @@ so that others know you're working on it!]**
 
 **Translations done so far:**    
 [none]
+Vorschau [Deutsch](https://stellingsimon.github.io/remember/de.html)
 
 To translate this project, you'll need a basic familiarity with HTML and GitHub.
 
