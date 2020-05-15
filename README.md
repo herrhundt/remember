@@ -1,4 +1,8 @@
-Vorschau [Deutsch](https://stellingsimon.github.io/remember/de.html)
+Vorschau [(StellingSimon, deutsch)](https://stellingsimon.github.io/remember/de.html)
+
+Vorschau [LK-Nerds, deutsch](https://herrhundt.github.io/de.html)
+
+Vorschau [Original, Englisch](https://ncase.me/remember/)
 
 !["Some Thumbnail Image"](https://ncase.me/remember/sharing/thumbnail.png)
 
